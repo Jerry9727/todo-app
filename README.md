@@ -1,2 +1,2 @@
 # todo-app
-A todo app to test some stuff
+A todo app to test some fluttery stuff *blushes*
